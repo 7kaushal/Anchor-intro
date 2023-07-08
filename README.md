@@ -11,6 +11,7 @@ With Anchor, you can quickly set up your application's backend, handle routing, 
 
 * [Rust](https://www.rust-lang.org/tools/install)
 * [Solana](https://docs.solana.com/cli/install-solana-cli-tools)
+ 
   _Run `solana-keygen new` to create a keypair at the default location. Anchor uses this keypair to run your program tests._
 * [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable)
 
